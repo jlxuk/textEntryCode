@@ -6,10 +6,10 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>JL's Hello World</name>
+    <name>JL's Text Entry</name>
 
     <description>
-        Hello World sample application created by JL that responds to the deviceready event.
+        Hello World sample application created by JL that responds to text entry.
     </description>
 
     <author href="Joe Leith" email="leij1_15@uni.worc.ac.uk">
